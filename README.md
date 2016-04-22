@@ -1,12 +1,12 @@
 # Title Case
 
-#### By Marika Allely and Jon Sweeney
+#### By Marika Allely
 
 ## Description
 
 #### This app was built as an exercise for Epicodus and is not meant to be replicated.  I'm keeping it here for my own records, and for nostalgia's sake.  Feel free to play with it, but be aware that it is not a complete project.
 
-_An app that takes a user's input and returns a string of capitalized words._
+_An app that takes a user's input and returns a string of capitalized words. Written as an exercise._
 
 ## Setup/Installation Requirements
 
